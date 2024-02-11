@@ -1,0 +1,16 @@
+Terminal Operation:
+    Collect()
+    count()
+    forEach()
+    min()
+    max()
+    reduce()
+    toArray()
+
+Processing or non-Terminal Operation:
+
+    filter()
+    map()
+    flatMap()
+    distinct()
+    limit()
