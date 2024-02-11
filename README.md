@@ -5,3 +5,22 @@ Streams enable concise and expressive code by allowing developers to express com
 They offer methods for filtering, mapping, reducing, and parallel processing, facilitating efficient and parallel execution on multi-core architectures. 
 Streams promote a more functional programming style, emphasizing immutability and reducing the need for explicit iteration. 
 This abstraction simplifies the development of robust, readable, and parallelizable code for data manipulation tasks in Java applications.
+
+## :heavy_check_mark: **Terminal Operation:**
+    Collect()
+    count()
+    forEach()
+    min()
+    max()
+    reduce()
+    toArray()
+
+## :heavy_check_mark: **Processing or non-Terminal Operation:**
+
+    filter()
+    map()
+    flatMap()
+    distinct()
+    limit()
+    peek()
+    skip()
