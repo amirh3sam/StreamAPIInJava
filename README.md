@@ -6,6 +6,9 @@ They offer methods for filtering, mapping, reducing, and parallel processing, fa
 Streams promote a more functional programming style, emphasizing immutability and reducing the need for explicit iteration. 
 This abstraction simplifies the development of robust, readable, and parallelizable code for data manipulation tasks in Java applications.
 
+
+Examine these examples showcasing both terminal and non-terminal operations in the Java Stream API to comprehend the diverse features available. Understanding these features enhances coding proficiency, leading to more performance-efficient and expressive code at varying levels of complexity.
+
 ## :heavy_check_mark: **Terminal Operation:**
     Collect()
     count()
@@ -14,6 +17,9 @@ This abstraction simplifies the development of robust, readable, and paralleliza
     max()
     reduce()
     toArray()
+    allMatch()
+    anyMatch()
+    noneMatch()
 
 ## :heavy_check_mark: **Processing or non-Terminal Operation:**
 
