@@ -1,5 +1,5 @@
 
-#JAVA STREAM API
+## :heavy_check_mark: **JAVA STREAM API**
 Java's Stream API is a powerful feature introduced in Java 8, providing a declarative and functional approach for processing data in collections.
 Streams enable concise and expressive code by allowing developers to express complex data manipulations, transformations, and aggregations using a fluent API. 
 They offer methods for filtering, mapping, reducing, and parallel processing, facilitating efficient and parallel execution on multi-core architectures. 
